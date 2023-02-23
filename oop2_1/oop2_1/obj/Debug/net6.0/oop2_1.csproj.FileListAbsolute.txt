@@ -1,0 +1,15 @@
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\bin\Debug\net6.0\oop2_1.exe
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\bin\Debug\net6.0\oop2_1.deps.json
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\bin\Debug\net6.0\oop2_1.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\bin\Debug\net6.0\oop2_1.dll
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\bin\Debug\net6.0\oop2_1.pdb
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.dll
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\refint\oop2_1.dll
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.pdb
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\oop2_1.genruntimeconfig.cache
+C:\Users\Dmitriy\source\repos\oop2_1\oop2_1\obj\Debug\net6.0\ref\oop2_1.dll
